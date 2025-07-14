@@ -9,7 +9,7 @@ This repository demonstrates three key concurrency problems in SQL Server and th
 📂 Contents
 
 
-📄 Lab Report: Lab 4-Niket_Bhatt.pdf ; Contains detailed explanations and screenshots for each question, showing the problems and their fixes.
+📄 Lab Report: Report.docx ; Contains detailed explanations and screenshots for each question, showing the problems and their fixes.
 
 
 🗄️ SQL Files:
